@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"nico.app","l":"App"}]

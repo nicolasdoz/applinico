@@ -1,0 +1,110 @@
+Invoking Maven for the goals: [org.apache.maven.plugins:maven-javadoc-plugin:3.0.1:javadoc] with no properties
+
+M2_HOME=/usr/share/maven
+MAVEN_OPTS=null
+JAVA_HOME=/usr/java/latest
+JAVA_OPTS=null
+
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building nico-domaine 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] >>> maven-javadoc-plugin:3.0.1:javadoc (default-cli) @ nico-domaine >>>
+[INFO] 
+[INFO] <<< maven-javadoc-plugin:3.0.1:javadoc (default-cli) @ nico-domaine <<<
+[INFO] 
+[INFO] --- maven-javadoc-plugin:3.0.1:javadoc (default-cli) @ nico-domaine ---
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.7/doxia-sink-api-1.7.jar
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-site-renderer/1.7.4/doxia-site-renderer-1.7.4.jar
+2/12 KB   2/63 KB   
+2/12 KB   2/63 KB   
+3/12 KB   3/63 KB   
+3/12 KB   3/63 KB   
+5/12 KB   3/63 KB   
+5/12 KB   5/63 KB   
+6/12 KB   5/63 KB   
+6/12 KB   6/63 KB   
+7/12 KB   6/63 KB   
+7/12 KB   7/63 KB   
+9/12 KB   7/63 KB   
+9/12 KB   9/63 KB   
+10/12 KB   9/63 KB   
+10/12 KB   10/63 KB   
+11/12 KB   10/63 KB   
+11/12 KB   11/63 KB   
+12/12 KB   11/63 KB   
+12/12 KB   13/63 KB   
+12/12 KB   14/63 KB   
+12/12 KB   15/63 KB   
+12/12 KB   17/63 KB   
+12/12 KB   18/63 KB   
+12/12 KB   19/63 KB   
+12/12 KB   21/63 KB   
+12/12 KB   22/63 KB   
+12/12 KB   23/63 KB   
+12/12 KB   25/63 KB   
+12/12 KB   26/63 KB   
+12/12 KB   27/63 KB   
+12/12 KB   29/63 KB   
+12/12 KB   30/63 KB   
+12/12 KB   31/63 KB   
+12/12 KB   33/63 KB   
+12/12 KB   34/63 KB   
+12/12 KB   35/63 KB   
+12/12 KB   37/63 KB   
+12/12 KB   38/63 KB   
+12/12 KB   39/63 KB   
+12/12 KB   41/63 KB   
+12/12 KB   42/63 KB   
+12/12 KB   43/63 KB   
+12/12 KB   45/63 KB   
+12/12 KB   46/63 KB   
+12/12 KB   47/63 KB   
+12/12 KB   49/63 KB   
+12/12 KB   50/63 KB   
+12/12 KB   51/63 KB   
+12/12 KB   53/63 KB   
+12/12 KB   54/63 KB   
+12/12 KB   55/63 KB   
+12/12 KB   57/63 KB   
+12/12 KB   58/63 KB   
+12/12 KB   59/63 KB   
+12/12 KB   61/63 KB   
+12/12 KB   62/63 KB   
+12/12 KB   63/63 KB   
+                      
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.7/doxia-sink-api-1.7.jar (12 KB at 30.0 KB/sec)
+                      
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-site-renderer/1.7.4/doxia-site-renderer-1.7.4.jar (63 KB at 157.2 KB/sec)
+[INFO] 
+Loading source files for package nico.app...
+Constructing Javadoc information...
+Standard Doclet version 9.0.4
+Building tree for all the packages and classes...
+Generating /home/userc/Eclipse/applinico/nico-domaine/target/site/apidocs/nico/app/App.html...
+Generating /home/userc/Eclipse/applinico/nico-domaine/target/site/apidocs/nico/app/package-frame.html...
+Generating /home/userc/Eclipse/applinico/nico-domaine/target/site/apidocs/nico/app/package-summary.html...
+Generating /home/userc/Eclipse/applinico/nico-domaine/target/site/apidocs/nico/app/package-tree.html...
+Generating /home/userc/Eclipse/applinico/nico-domaine/target/site/apidocs/constant-values.html...
+Generating /home/userc/Eclipse/applinico/nico-domaine/target/site/apidocs/nico/app/class-use/App.html...
+Generating /home/userc/Eclipse/applinico/nico-domaine/target/site/apidocs/nico/app/package-use.html...
+Building index for all the packages and classes...
+Generating /home/userc/Eclipse/applinico/nico-domaine/target/site/apidocs/overview-tree.html...
+Generating /home/userc/Eclipse/applinico/nico-domaine/target/site/apidocs/index-all.html...
+Generating /home/userc/Eclipse/applinico/nico-domaine/target/site/apidocs/deprecated-list.html...
+Building index for all classes...
+Generating /home/userc/Eclipse/applinico/nico-domaine/target/site/apidocs/allclasses-frame.html...
+Generating /home/userc/Eclipse/applinico/nico-domaine/target/site/apidocs/allclasses-frame.html...
+Generating /home/userc/Eclipse/applinico/nico-domaine/target/site/apidocs/allclasses-noframe.html...
+Generating /home/userc/Eclipse/applinico/nico-domaine/target/site/apidocs/allclasses-noframe.html...
+Generating /home/userc/Eclipse/applinico/nico-domaine/target/site/apidocs/index.html...
+Generating /home/userc/Eclipse/applinico/nico-domaine/target/site/apidocs/help-doc.html...
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 3.452s
+[INFO] Finished at: Tue Sep 08 10:02:47 CEST 2020
+[INFO] Final Memory: 15M/52M
+[INFO] ------------------------------------------------------------------------
